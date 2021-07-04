@@ -1,0 +1,857 @@
+[
+    {
+        "name": "10 minutes",
+        "groups": [
+            "corvin"
+        ],
+        "url": "http://www.10minutes.hu/",
+        "facebook": "https://www.facebook.com/tenminutesbistrocafe",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/10-minutes-bistro",
+        "map": "https://g.page/10-minutes-bistro",
+        "netpincer": "",
+        "coordinates": [
+            47.485168,
+            19.074526
+        ]
+    },
+    {
+        "name": "Balla Hús",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "http://www.ballahus.hu/",
+        "facebook": "https://www.facebook.com/Balla-H%C3%BAs-Kft-131254126956603",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/balla-hs",
+        "map": "https://goo.gl/maps/NbiM97u9Ho54r9BQ6",
+        "netpincer": "",
+        "coordinates": [
+            47.494088,
+            19.056064
+        ]
+    },
+    {
+        "name": "Bartucz Faloda",
+        "groups": [
+            "corvin"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/bartuczfaloda/posts",
+        "wolt": "",
+        "netpincer": "",
+        "map": "https://g.page/bartuczfaloda",
+        "coordinates": [
+            47.485874,
+            19.070868
+        ]
+    },
+    {
+        "name": "Bartók",
+        "groups": [
+            "moricz"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/bartokgastropub/posts",
+        "wolt": "",
+        "netpincer": "",
+        "map": "https://g.page/bartokgastropub",
+        "coordinates": [
+            47.482268,
+            19.05253
+        ]
+    },
+    {
+        "name": "Bonnie",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "http://bonnierestro.hu/heti-menue.html",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.492182,
+            19.056561
+        ]
+    },
+    {
+        "name": "Budai 33",
+        "groups": [
+            "szell"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/B33BISTRO/posts",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.508923,
+            19.02945
+        ]
+    },
+    {
+        "name": "Caffe Shakerato",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/shakeratocaffe/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.495109,
+            19.050935
+        ]
+    },
+    {
+        "name": "Dagoba",
+        "groups": [
+            "corvin"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/Dagoba-bisztró-1742309292469507/posts",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.486748,
+            19.080351
+        ]
+    },
+    {
+        "name": "Dezső bá",
+        "groups": [
+            "corvin"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/Dezs%C5%91B%C3%A1-Falatoz%C3%B3ja-124533944254228/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.48681,
+            19.076372
+        ]
+    },
+    {
+        "name": "Divin Porcello",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/DivinPorcelloBudapest/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.494968,
+            19.049927
+        ]
+    },
+    {
+        "name": "FIRST Local",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "https://www.firstcraftbeer.com/local/",
+        "facebook": "https://www.facebook.com/pg/FIRSTLocalCraftBeerandKitchen/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.497485,
+            19.057512
+        ]
+    },
+    {
+        "name": "Fecske presszó",
+        "groups": [
+            "corvin"
+        ],
+        "url": "http://www.fecskepresszo.com/heti-menu",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.489578,
+            19.064336
+        ]
+    },
+    {
+        "name": "Finom Falat",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/Finomfalat17/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.49521,
+            19.050876
+        ]
+    },
+    {
+        "name": "Foodie",
+        "groups": [
+            "corvin"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/Foodie-MinuteBistro-494549960697458/posts",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.485998,
+            19.075279
+        ]
+    },
+    {
+        "name": "Fruccola (Kristóf tér)",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "http://fruccola.hu/hu",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.495582,
+            19.051981
+        ]
+    },
+    {
+        "name": "Govinda",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/vegasarok/posts",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.4908,
+            19.056685
+        ]
+    },
+    {
+        "name": "Gólvonal",
+        "groups": [
+            "corvin"
+        ],
+        "url": "http://www.golvonalbisztro.hu/heti-menuajanlat.html",
+        "facebook": "https://www.facebook.com/golvonalbisztro",
+        "wolt": "",
+        "netpincer": "",
+        "map": "https://goo.gl/maps/eCb7ZYTGkf5c9t29A",
+        "coordinates": [
+            47.476036,
+            19.0945
+        ]
+    },
+    {
+        "name": "HomeField Pub",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/HomeFieldPub/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.494157,
+            19.051109
+        ]
+    },
+    {
+        "name": "Input bar",
+        "groups": [
+            "corvin"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/inputkitchenandbar",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.485573,
+            19.0647
+        ]
+    },
+    {
+        "name": "Intenzo",
+        "groups": [
+            "corvin"
+        ],
+        "url": "http://cafeintenzo.hu/#hetimenu",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.488949,
+            19.061771
+        ]
+    },
+    {
+        "name": "Jedermann",
+        "groups": [
+            "corvin"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/jedermann.budapest/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.481862,
+            19.067095
+        ]
+    },
+    {
+        "name": "Jégkert",
+        "groups": [
+            "szell"
+        ],
+        "url": "http://www.jegkert.hu/napiebedmenu",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.509202,
+            19.028489
+        ]
+    },
+    {
+        "name": "JóAsszony",
+        "groups": [
+            "szell",
+            "corvin"
+        ],
+        "url": "http://www.gyorsetterem.hu/hetimenu.php",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.508528,
+            19.025995
+        ]
+    },
+    {
+        "name": "KAJAHU",
+        "groups": [
+            "ferenciek",
+            "corvin"
+        ],
+        "url": "https://www.kajahu.com/etlap/d",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            [
+                47.494301,
+                19.054397
+            ],
+            [
+                47.485758,
+                19.076788
+            ]
+        ]
+    },
+    {
+        "name": "KEG",
+        "groups": [
+            "moricz"
+        ],
+        "url": "http://www.kegsormuvhaz.hu/menu-1",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.482165,
+            19.052041
+        ]
+    },
+    {
+        "name": "KIOSK",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "https://www.kiosk-budapest.hu/",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.492833,
+            19.052123
+        ]
+    },
+    {
+        "name": "Keksz",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/kekszbudapest/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.497596,
+            19.05713
+        ]
+    },
+    {
+        "name": "Kerova",
+        "groups": [
+            "corvin"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/kerovaetelbar/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.486746,
+            19.079615
+        ]
+    },
+    {
+        "name": "Kompót",
+        "groups": [
+            "corvin"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/KompotBisztro/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.485753,
+            19.075932
+        ]
+    },
+    {
+        "name": "La Nube",
+        "groups": [
+            "moricz"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/lanubetapas/posts",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.478818,
+            19.049411
+        ]
+    },
+    {
+        "name": "WINE Fusion Borbisztró",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "http://www.magyarqtr.com/index.php?option=com_k2&view=item&layout=item&id=13&Itemid=231&lang=hu",
+        "facebook": "https://www.facebook.com/MagyarQTR",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.489049,
+            19.054093
+        ]
+    },
+    {
+        "name": "Manga Cowboy",
+        "groups": [
+            "corvin"
+        ],
+        "url": "http://mangacowboy.hu/",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.485563,
+            19.064366
+        ]
+    },
+    {
+        "name": "Marcello",
+        "groups": [
+            "moricz"
+        ],
+        "url": "https://www.marcelloetterem.hu",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.478988,
+            19.050615
+        ]
+    },
+    {
+        "name": "Monks",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "http://www.monks.hu/etlap",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.492625,
+            19.052698
+        ]
+    },
+    {
+        "name": "Muzikum",
+        "groups": [
+            "corvin"
+        ],
+        "url": "http://muzikum.hu/heti-menu/",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.490255,
+            19.063264
+        ]
+    },
+    {
+        "name": "Napfényes étterem",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "https://napfenyesetterem.hu/vegan-vegetarianus-napi-ajanlatok/",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.492352,
+            19.055191
+        ]
+    },
+    {
+        "name": "Nika",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/nikadelimenu/posts",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.493694,
+            19.058295
+        ]
+    },
+    {
+        "name": "Nine Tables",
+        "groups": [
+            "corvin"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/Nine-Tables-Corvin-255153518398246/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.485983,
+            19.074895
+        ]
+    },
+    {
+        "name": "Office Bistro",
+        "groups": [
+            "szepvolgyi"
+        ],
+        "url": "http://szepvolgyi.officebistro.hu/heti-ajanlat",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.527834,
+            19.035994
+        ]
+    },
+    {
+        "name": "Opus",
+        "groups": [
+            "corvin"
+        ],
+        "url": "https://opusjazzclub.hu/etlap",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.485562,
+            19.061117
+        ]
+    },
+    {
+        "name": "Pasta Fresca Buda",
+        "groups": [
+            "szell"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/Pastafresca-Buda-235959913862289/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.51015,
+            19.025627
+        ]
+    },
+    {
+        "name": "Pasta.",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/pastapont/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.489606,
+            19.061087
+        ]
+    },
+    {
+        "name": "Pódium Bistro & Club",
+        "groups": [
+            "szepvolgyi"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/PodiumBistroAndClub/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.529662,
+            19.038243
+        ]
+    },
+    {
+        "name": "Ruben Étterem",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "http://www.rubenrestaurant.hu/napimenu",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.493062,
+            19.059958
+        ]
+    },
+    {
+        "name": "Semmi Extra",
+        "groups": [
+            "moricz",
+            "szepvolgyi"
+        ],
+        "url": "https://semmiextra.hu/#menu-heti-b",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            [
+                47.476981,
+                19.045548
+            ],
+            [
+                47.529319,
+                19.03888
+            ]
+        ]
+    },
+    {
+        "name": "SonkaArcok",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/sonkaarcok/posts",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.490826,
+            19.059251
+        ]
+    },
+    {
+        "name": "Stex",
+        "groups": [
+            "corvin"
+        ],
+        "url": "http://stexhaz.hu/index.php/hu/etl/deli-ajanlat",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.489313,
+            19.070442
+        ]
+    },
+    {
+        "name": "Stoczek menza",
+        "groups": [
+            "moricz"
+        ],
+        "url": "http://www.melodin.hu/stoczek-melodin-menza",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.479195,
+            19.055376
+        ]
+    },
+    {
+        "name": "Szatyor",
+        "groups": [
+            "moricz"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/szatyorbar/posts",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.479173,
+            19.050786
+        ]
+    },
+    {
+        "name": "VAN bisztró",
+        "groups": [
+            "szell"
+        ],
+        "url": "",
+        "facebook": "https://www.facebook.com/pg/vanbisztro/posts/",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.510595,
+            19.023767
+        ]
+    },
+    {
+        "name": "Vapiano",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "https://vapiano.hu/etlap/mamma-mia-special/",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.496696,
+            19.051125
+        ]
+    },
+    {
+        "name": "Veranda",
+        "groups": [
+            "corvin"
+        ],
+        "url": "http://verandaetterem.hu/heti-menu/",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.479354,
+            19.079752
+        ]
+    },
+    {
+        "name": "Vén Diák",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "https://www.vendiaketterem.hu/",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.490981,
+            19.058805
+        ]
+    },
+    {
+        "name": "Víg Varjú",
+        "groups": [
+            "ferenciek"
+        ],
+        "url": "http://vigvarju.vakvarju.com/deli-menu/",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.496045,
+            19.049145
+        ]
+    },
+    {
+        "name": "Wasabi",
+        "groups": [
+            "szepvolgyi"
+        ],
+        "url": "https://www.wasabi.hu/szolgaltatas/napimenu",
+        "facebook": "",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": [
+            47.52777,
+            19.036433
+        ]
+    },
+    {
+        "name": "Wokzilla",
+        "groups": [
+            "corvin"
+        ],
+        "url": "https://www.wokzilla.hu/weeklymenu",
+        "facebook": "https://www.facebook.com/WokzillaBP",
+        "map": "https://goo.gl/maps/UjWLowvk1NHc87NGA",
+        "netpincer": "https://www.netpincer.hu/restaurant/b1np/wokzilla-sushi-and-wok-bar",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/wokzilla",
+        "coordinates": [
+            47.4852735,
+            19.0645693
+        ]
+    }
+]
