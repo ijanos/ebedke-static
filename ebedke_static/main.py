@@ -3,28 +3,31 @@
 import argparse
 import json
 from typing import List, Dict
+
 import jinja2
 
-def load_restaurants(json_path) -> List[Dict[str, object]]:
+def load_restaurants(json_path: str) -> List[Dict[str, object]]:
     with open(json_path) as f:
         ebedke_data = json.load(f)
     return ebedke_data
 
 
-def generate_site(restaruants, output_dir) -> None:
+def generate_site(restaruants: List[Dict[str, object]], output_dir: str) -> None:
     with open('template/index.html.j2') as f:
         template = jinja2.Template(f.read(), undefined=jinja2.StrictUndefined)
     with open(f"{output_dir}/index.html", "w") as f:
         f.write(template.render(restaurants=restaruants))
 
 
-def main() -> None:
+def parse_args():
     parser = argparse.ArgumentParser(description='Ebedke static site generator')
     parser.add_argument('restaurants', help='a JSON file with restaurant data')
     parser.add_argument('--build_dir', default="build", help='output directory, default: build')
 
-    args = parser.parse_args()
+    return parser.parse_args()
 
+def main() -> None:
+    args = parse_args()
     restaurants = load_restaurants(args.restaurants)
     generate_site(restaurants, args.build_dir)
 
