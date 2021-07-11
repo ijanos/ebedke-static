@@ -65,10 +65,10 @@
             "ferenciek"
         ],
         "url": "http://bonnierestro.hu/heti-menue.html",
-        "facebook": "",
-        "wolt": "",
+        "facebook": "https://www.facebook.comp/pg/BonnieRestro/",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/bonnie-restro-comics",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/2zpeLnRzZx7HsvMH8",
         "coordinates": [
             47.492182,
             19.056561
@@ -79,11 +79,11 @@
         "groups": [
             "szell"
         ],
-        "url": "",
+        "url": "https://budai33bistro.hu/",
         "facebook": "https://www.facebook.com/pg/B33BISTRO/posts",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/ez-is-budai",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/tpUp9sf6NnZfweir8",
         "coordinates": [
             47.508923,
             19.02945
@@ -94,11 +94,11 @@
         "groups": [
             "ferenciek"
         ],
-        "url": "",
+        "url": "http://shakerato.hu/#menu",
         "facebook": "https://www.facebook.com/pg/shakeratocaffe/posts/",
         "wolt": "",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/2cumbdLJH3tusNSp7",
         "coordinates": [
             47.495109,
             19.050935
@@ -113,7 +113,7 @@
         "facebook": "https://www.facebook.com/pg/Dagoba-bisztró-1742309292469507/posts",
         "wolt": "",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/aBoxikZQqF2jhkxB9",
         "coordinates": [
             47.486748,
             19.080351
@@ -128,7 +128,7 @@
         "facebook": "https://www.facebook.com/Dezs%C5%91B%C3%A1-Falatoz%C3%B3ja-124533944254228/",
         "wolt": "",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/sRNK3n4zPStGmmae9",
         "coordinates": [
             47.48681,
             19.076372
@@ -143,7 +143,7 @@
         "facebook": "https://www.facebook.com/pg/DivinPorcelloBudapest/posts/",
         "wolt": "",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/mugNcKCSWT6yeWs76",
         "coordinates": [
             47.494968,
             19.049927
@@ -158,7 +158,7 @@
         "facebook": "https://www.facebook.com/pg/FIRSTLocalCraftBeerandKitchen/posts/",
         "wolt": "",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/oTfKXeK6QNhzunnFA",
         "coordinates": [
             47.497485,
             19.057512
@@ -170,10 +170,10 @@
             "corvin"
         ],
         "url": "http://www.fecskepresszo.com/heti-menu",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/Fecske-Pressz%C3%B3-114059451953225/",
         "wolt": "",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/5WHp4qKczFMYRMTo8",
         "coordinates": [
             47.489578,
             19.064336
@@ -188,7 +188,7 @@
         "facebook": "https://www.facebook.com/Finomfalat17/",
         "wolt": "",
         "netpincer": "",
-        "map": "",
+        "map": "https://g.page/Finomfalat?share",
         "coordinates": [
             47.49521,
             19.050876
@@ -201,27 +201,12 @@
         ],
         "url": "",
         "facebook": "https://www.facebook.com/pg/Foodie-MinuteBistro-494549960697458/posts",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/foodie-minutebistro",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/YqVCtKDUmn4Q3W6x9",
         "coordinates": [
             47.485998,
             19.075279
-        ]
-    },
-    {
-        "name": "Fruccola (Kristóf tér)",
-        "groups": [
-            "ferenciek"
-        ],
-        "url": "http://fruccola.hu/hu",
-        "facebook": "",
-        "wolt": "",
-        "netpincer": "",
-        "map": "",
-        "coordinates": [
-            47.495582,
-            19.051981
         ]
     },
     {
@@ -233,7 +218,7 @@
         "facebook": "https://www.facebook.com/pg/vegasarok/posts",
         "wolt": "",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/6o3Q3xrrjxYQDHpp7",
         "coordinates": [
             47.4908,
             19.056685
@@ -320,7 +305,7 @@
             "szell"
         ],
         "url": "http://www.jegkert.hu/napiebedmenu",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/pg/jegkert/",
         "wolt": "",
         "netpincer": "",
         "map": "",
