@@ -2,9 +2,10 @@
 
 import argparse
 import json
-from typing import List, Dict
+from typing import List, Dict, Any
+from collections import defaultdict
 
-from jinja2 import Environment, FileSystemLoader, StrictUndefined
+from jinja2 import Environment, FileSystemLoader, StrictUndefined, Template
 
 
 def load_restaurants(json_path: str) -> List[Dict[str, object]]:
@@ -13,16 +14,31 @@ def load_restaurants(json_path: str) -> List[Dict[str, object]]:
     return ebedke_data
 
 
-def generate_site(restaruants: List[Dict[str, object]], output_dir: str) -> None:
-    with open('template/index.html.j2') as f:
+def load_template(template_path: str) -> Template:
+    with open(template_path) as f:
         template_str = f.read()
 
     jinja_env = Environment(loader=FileSystemLoader("template/"), undefined=StrictUndefined)
-    template = jinja_env.from_string(template_str)
-    with open(f"{output_dir}/index.html", "w") as f:
-        f.write(template.render(restaurants=restaruants)
-)
+    return jinja_env.from_string(template_str)
 
+
+def generate_page(target, template, keys={}):
+    with open(target, "w") as f:
+        f.write(template.render(keys))
+
+
+def generate_site(restaruants: List[Dict[str, Any]], output_dir: str) -> None:
+    generate_page(f"{output_dir}/404.html", load_template('template/404.html.j2'))
+
+    groups: Dict[str, List[Any]] = defaultdict(list)
+    for r in restaruants:
+        groups["index"].append(r)
+        for g in r["groups"]:
+            groups[g].append(r)
+
+    template_main = load_template('template/index.html.j2')
+    for group, restaruants in groups.items():
+        generate_page(f"{output_dir}/{group}.html", template_main, {"restaurants": restaruants})
 
 
 def parse_args():
