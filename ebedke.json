@@ -276,7 +276,7 @@
         ],
         "url": "http://cafeintenzo.hu/#hetimenu",
         "facebook": "",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/cafe-intenzo",
         "netpincer": "",
         "map": "",
         "coordinates": [
@@ -320,10 +320,10 @@
             "szell",
             "corvin"
         ],
-        "url": "http://www.gyorsetterem.hu/hetimenu.php",
+        "url": "http://www.gyorsetterem.hu/",
         "facebook": "",
-        "wolt": "",
-        "netpincer": "",
+        "wolt": "https://wolt.com/hu/search?q=joasszony",
+        "netpincer": "https://www.netpincer.hu/restaurant/u8lt/joasszony-corvin",
         "map": "",
         "coordinates": [
             47.508528,
@@ -359,7 +359,7 @@
         ],
         "url": "http://www.kegsormuvhaz.hu/menu-1",
         "facebook": "",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/keg-srmvhz",
         "netpincer": "",
         "map": "",
         "coordinates": [
@@ -373,10 +373,10 @@
             "ferenciek"
         ],
         "url": "https://www.kiosk-budapest.hu/",
-        "facebook": "",
-        "wolt": "",
+        "facebook": "https://www.facebook.com/kioskbudapest",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/kiosk-buda",
         "netpincer": "",
-        "map": "",
+        "map": "https://g.page/kioskpest?share",
         "coordinates": [
             47.492833,
             19.052123
@@ -389,7 +389,7 @@
         ],
         "url": "",
         "facebook": "https://www.facebook.com/pg/kekszbudapest/posts/",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/keksz",
         "netpincer": "",
         "map": "",
         "coordinates": [
@@ -464,7 +464,7 @@
         ],
         "url": "http://mangacowboy.hu/",
         "facebook": "",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/manga-cowboy",
         "netpincer": "",
         "map": "",
         "coordinates": [
@@ -524,7 +524,7 @@
         ],
         "url": "https://napfenyesetterem.hu/vegan-vegetarianus-napi-ajanlatok/",
         "facebook": "",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/napfnyes-vegn-tterem",
         "netpincer": "",
         "map": "",
         "coordinates": [
@@ -541,7 +541,7 @@
         "facebook": "https://www.facebook.com/pg/nikadelimenu/posts",
         "wolt": "",
         "netpincer": "",
-        "map": "",
+        "map": "https://g.page/nikarestaurant?share",
         "coordinates": [
             47.493694,
             19.058295
@@ -629,9 +629,9 @@
         ],
         "url": "",
         "facebook": "https://www.facebook.com/pg/PodiumBistroAndClub/posts/",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/pdium-bistro-club",
         "netpincer": "",
-        "map": "",
+        "map": "https://goo.gl/maps/MUP8xiNbsyQE97nW8",
         "coordinates": [
             47.529662,
             19.038243
@@ -644,9 +644,9 @@
         ],
         "url": "http://www.rubenrestaurant.hu/napimenu",
         "facebook": "",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/ruben-etterem",
         "netpincer": "",
-        "map": "",
+        "map": "https://g.page/rubenrestaurant?share",
         "coordinates": [
             47.493062,
             19.059958
@@ -660,7 +660,7 @@
         ],
         "url": "https://semmiextra.hu/#menu-heti-b",
         "facebook": "",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/semmi-extra",
         "netpincer": "",
         "map": "",
         "coordinates": [
@@ -735,21 +735,6 @@
         ]
     },
     {
-        "name": "Vapiano",
-        "groups": [
-            "ferenciek"
-        ],
-        "url": "https://vapiano.hu/etlap/mamma-mia-special/",
-        "facebook": "",
-        "wolt": "",
-        "netpincer": "",
-        "map": "",
-        "coordinates": [
-            47.496696,
-            19.051125
-        ]
-    },
-    {
         "name": "Veranda",
         "groups": [
             "corvin"
@@ -769,11 +754,11 @@
         "groups": [
             "ferenciek"
         ],
-        "url": "https://www.vendiaketterem.hu/",
+        "url": "https://www.vendiaketterem.hu/menurendeles/",
         "facebook": "",
-        "wolt": "",
+        "wolt": "https://wolt.com/hu/hun/budapest/restaurant/vndik-tterem",
         "netpincer": "",
-        "map": "",
+        "map": "https://g.page/Vendiak?share",
         "coordinates": [
             47.490981,
             19.058805
