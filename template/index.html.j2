@@ -1,37 +1,5 @@
-<!doctype html>
-<html lang="hu">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="res/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC">
-    <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <link rel="icon" href="favicon.png">
-    <title>Ebédke</title>
-  </head>
-  <body>
-    <nav class="py-2 bg-light border-bottom">
-        <div class="container d-flex flex-wrap">
-          <ul class="nav me-auto">
-            <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Corvin</a></li>
-            <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Ferenciek</a></li>
-            <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Móricz</a></li>
-            <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Széll</a></li>
-            <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Szépvölgyi</a></li>
-          </ul>
-        </div>
-      </nav>
-      <header class="py-3 mb-4 border-bottom">
-        <div class="container d-flex flex-wrap justify-content-center">
-          <a href="/" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none">
-            <span class="fs-4">ebéd 🍽 today</span>
-          </a>
-          {# TODO search
-          <form class="col-12 col-lg-auto mb-3 mb-lg-0">
-            <input type="search" class="form-control" placeholder="Keresés..." aria-label="Search">
-          </form>
-          #}
-        </div>
-      </header>
+{% include 'header.html.j2' %}
+
     <main>
       <div class="alert alert-warning" role="alert">
           Sajnos a COVID-19, érthető okokból, elapasztotta az oldal látogatottságát. Ezzel a motivacióm, hogy karban tartsam a szervert is oda lett.
@@ -70,18 +38,4 @@
 
     </main>
 
-    <footer class="footer mt-auto py-3 bg-white">
-      <div class="container">
-        <span class="text-muted">Forráskód <a href="https://github.com/ijanos/ebedke-static">GitHubon</a></span>
-      </div>
-    </footer>
-    <script>
-    </script>
-    {# TODO tracking
-    <script data-goatcounter="https://ebedke.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-    <noscript>
-        <img src="https://ebedke.goatcounter.com/count?p=/noscript">
-    </noscript>
-    #}
-  </body>
-</html>
+{% include 'footer.html.j2' %}
