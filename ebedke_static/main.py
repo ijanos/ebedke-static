@@ -4,7 +4,8 @@ import argparse
 import json
 from typing import List, Dict
 
-import jinja2
+from jinja2 import Environment, FileSystemLoader, StrictUndefined
+
 
 def load_restaurants(json_path: str) -> List[Dict[str, object]]:
     with open(json_path) as f:
@@ -14,9 +15,14 @@ def load_restaurants(json_path: str) -> List[Dict[str, object]]:
 
 def generate_site(restaruants: List[Dict[str, object]], output_dir: str) -> None:
     with open('template/index.html.j2') as f:
-        template = jinja2.Template(f.read(), undefined=jinja2.StrictUndefined)
+        template_str = f.read()
+
+    jinja_env = Environment(loader=FileSystemLoader("template/"), undefined=StrictUndefined)
+    template = jinja_env.from_string(template_str)
     with open(f"{output_dir}/index.html", "w") as f:
-        f.write(template.render(restaurants=restaruants))
+        f.write(template.render(restaurants=restaruants)
+)
+
 
 
 def parse_args():
