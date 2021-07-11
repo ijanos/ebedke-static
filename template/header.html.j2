@@ -9,14 +9,12 @@
     <title>Ebédke</title>
   </head>
   <body>
-    <nav class="py-2 bg-light border-bottom">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container d-flex flex-wrap">
-          <ul class="nav me-auto">
-            <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Corvin</a></li>
-            <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Ferenciek</a></li>
-            <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Móricz</a></li>
-            <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Széll</a></li>
-            <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Szépvölgyi</a></li>
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            {% for name, filename in [("Corvin", "corvin"), ("Ferenciek", "ferenciek"), ("Móricz", "moricz"), ("Széll", "szell"), ("Szépvölgyi", "szepvolgyi")] %}
+                <li class="nav-item"><a href="{{ filename }}.html" class="nav-link px-2">{{ name }}</a></li>
+            {% endfor %}
           </ul>
         </div>
       </nav>
