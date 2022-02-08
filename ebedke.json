@@ -180,6 +180,18 @@
         ]
     },
     {
+        "name": "Gnocco",
+        "groups": [
+            "corvin"
+        ],
+        "url": "https://gnocco.hu/ettermeink/gnocco-corvin-setany/#etlap",
+        "facebook": "https://www.facebook.com/gnoccoetterem",
+        "wolt": "",
+        "netpincer": "",
+        "map": "",
+        "coordinates": []
+    },
+    {
         "name": "Finom Falat",
         "groups": [
             "ferenciek"
